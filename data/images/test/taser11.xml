@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>taser11.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/taser11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tazer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>77</ymin>
+			<xmax>230</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

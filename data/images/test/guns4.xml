@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>guns4.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/guns4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>76</ymin>
+			<xmax>237</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

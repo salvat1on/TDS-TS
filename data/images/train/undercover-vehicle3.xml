@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>undercover-vehicle3.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/undercover-vehicle3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>undercover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>39</ymin>
+			<xmax>277</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

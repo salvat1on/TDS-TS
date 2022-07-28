@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>holding-weapons49.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/holding-weapons49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>6</ymin>
+			<xmax>168</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

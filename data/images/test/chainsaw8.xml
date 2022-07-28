@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>chainsaw8.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/chainsaw8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chainsaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>331</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

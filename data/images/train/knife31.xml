@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>knife31.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/knife31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>141</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>5</ymin>
+			<xmax>347</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

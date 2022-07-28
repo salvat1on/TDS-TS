@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>golf-club4.png</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/golf-club4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golfclub</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>1</ymin>
+			<xmax>268</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

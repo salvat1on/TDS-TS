@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>burglar52.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/burglar52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>25</ymin>
+			<xmax>136</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

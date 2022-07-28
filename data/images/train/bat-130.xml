@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bat-130.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/bat-130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>19</ymin>
+			<xmax>229</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

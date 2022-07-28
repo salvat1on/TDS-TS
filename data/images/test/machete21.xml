@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>machete21.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/machete21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>machete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>75</ymin>
+			<xmax>258</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

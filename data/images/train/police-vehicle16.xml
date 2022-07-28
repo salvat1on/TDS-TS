@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>police-vehicle16.jpg</filename>
+	<path>/home/gladys/object_detection_demo-master/data/images/test/police-vehicle16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>46</ymin>
+			<xmax>266</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
